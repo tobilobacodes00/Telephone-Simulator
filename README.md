@@ -11,7 +11,7 @@ This is a simple web application that validates US telephone numbers. Enter a ph
 
 ## Demo
 
-![Screenshot of the app](screenshot.png) <!-- Add a screenshot if available -->
+![Live demo](#)
 
 ## How It Works
 
