@@ -11,7 +11,7 @@ This is a simple web application that validates US telephone numbers. Enter a ph
 
 ## Demo
 
-![Live demo](#)
+![Live demo](https://tobilobacodes00.github.io/Telephone-Simulator/)
 
 ## How It Works
 
